@@ -14,3 +14,5 @@ to play piano you have to start play it
 and to be a professional player you gotta play it hard.
 
 source code is like piano score.
+
+you wanna be a programmer this is where you start
