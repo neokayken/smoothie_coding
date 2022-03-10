@@ -7,7 +7,7 @@ all you need to do, write a line of code and run the python interpreter.
 you try to get an idea of how python works and go on.
 
 
-# python installation
+## python installation
 
 Many Linux Distros have python3 built and MacOS does.
 For Windows users you have to install it yourself.
@@ -16,7 +16,7 @@ It will be a quick and easy installation.
 
 [Python Download](https://www.python.org/downloads/)
 
-# python version check
+## python version check
 
 on command prompt type
 
